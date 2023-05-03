@@ -1,0 +1,11 @@
+C:\Users\micon\source\repos\VerteilteSysLib\VerteilteSysClient\bin\Debug\VerteilteSysClient.exe.config
+C:\Users\micon\source\repos\VerteilteSysLib\VerteilteSysClient\bin\Debug\VerteilteSysClient.exe
+C:\Users\micon\source\repos\VerteilteSysLib\VerteilteSysClient\bin\Debug\VerteilteSysClient.pdb
+C:\Users\micon\source\repos\VerteilteSysLib\VerteilteSysClient\obj\Debug\VerteilteSysClient.csproj.AssemblyReference.cache
+C:\Users\micon\source\repos\VerteilteSysLib\VerteilteSysClient\obj\Debug\VerteilteSysClient.csproj.SuggestedBindingRedirects.cache
+C:\Users\micon\source\repos\VerteilteSysLib\VerteilteSysClient\obj\Debug\VerteilteSysClient.csproj.CoreCompileInputs.cache
+C:\Users\micon\source\repos\VerteilteSysLib\VerteilteSysClient\obj\Debug\VerteilteSysClient.exe
+C:\Users\micon\source\repos\VerteilteSysLib\VerteilteSysClient\obj\Debug\VerteilteSysClient.pdb
+C:\Users\micon\source\repos\VerteilteSysLib\VerteilteSysClient\bin\Debug\log4net.dll
+C:\Users\micon\source\repos\VerteilteSysLib\VerteilteSysClient\bin\Debug\log4net.xml
+C:\Users\micon\source\repos\VerteilteSysLib\VerteilteSysClient\obj\Debug\VerteilteSysClient.csproj.CopyComplete

@@ -1,0 +1,9 @@
+C:\Users\micon\source\repos\VerteilteSysLib\PierpontPlugin\bin\Debug\PierpontPlugin.dll
+C:\Users\micon\source\repos\VerteilteSysLib\PierpontPlugin\bin\Debug\PierpontPlugin.pdb
+C:\Users\micon\source\repos\VerteilteSysLib\PierpontPlugin\bin\Debug\Model.dll
+C:\Users\micon\source\repos\VerteilteSysLib\PierpontPlugin\bin\Debug\Model.pdb
+C:\Users\micon\source\repos\VerteilteSysLib\PierpontPlugin\obj\Debug\PierpontPlugin.csproj.AssemblyReference.cache
+C:\Users\micon\source\repos\VerteilteSysLib\PierpontPlugin\obj\Debug\PierpontPlugin.csproj.CoreCompileInputs.cache
+C:\Users\micon\source\repos\VerteilteSysLib\PierpontPlugin\obj\Debug\PierpontPlugin.csproj.CopyComplete
+C:\Users\micon\source\repos\VerteilteSysLib\PierpontPlugin\obj\Debug\PierpontPlugin.dll
+C:\Users\micon\source\repos\VerteilteSysLib\PierpontPlugin\obj\Debug\PierpontPlugin.pdb

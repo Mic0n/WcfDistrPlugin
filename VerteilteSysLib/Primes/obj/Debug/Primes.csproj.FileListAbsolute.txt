@@ -1,0 +1,9 @@
+C:\Users\micon\source\repos\VerteilteSysLib\Primes\bin\Debug\Primes.dll
+C:\Users\micon\source\repos\VerteilteSysLib\Primes\bin\Debug\Primes.pdb
+C:\Users\micon\source\repos\VerteilteSysLib\Primes\bin\Debug\Model.dll
+C:\Users\micon\source\repos\VerteilteSysLib\Primes\bin\Debug\Model.pdb
+C:\Users\micon\source\repos\VerteilteSysLib\Primes\obj\Debug\Primes.csproj.AssemblyReference.cache
+C:\Users\micon\source\repos\VerteilteSysLib\Primes\obj\Debug\Primes.csproj.CoreCompileInputs.cache
+C:\Users\micon\source\repos\VerteilteSysLib\Primes\obj\Debug\Primes.csproj.CopyComplete
+C:\Users\micon\source\repos\VerteilteSysLib\Primes\obj\Debug\Primes.dll
+C:\Users\micon\source\repos\VerteilteSysLib\Primes\obj\Debug\Primes.pdb

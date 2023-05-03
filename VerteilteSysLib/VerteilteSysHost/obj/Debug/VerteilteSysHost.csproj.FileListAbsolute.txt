@@ -1,0 +1,32 @@
+C:\Users\micon\source\repos\VerteilteSysLib\VerteilteSysHost\bin\Debug\VerteilteSysHost.exe.config
+C:\Users\micon\source\repos\VerteilteSysLib\VerteilteSysHost\bin\Debug\VerteilteSysHost.exe
+C:\Users\micon\source\repos\VerteilteSysLib\VerteilteSysHost\bin\Debug\VerteilteSysHost.pdb
+C:\Users\micon\source\repos\VerteilteSysLib\VerteilteSysHost\obj\Debug\VerteilteSysHost.csproj.AssemblyReference.cache
+C:\Users\micon\source\repos\VerteilteSysLib\VerteilteSysHost\obj\Debug\VerteilteSysHost.csproj.SuggestedBindingRedirects.cache
+C:\Users\micon\source\repos\VerteilteSysLib\VerteilteSysHost\obj\Debug\VerteilteSysHost.csproj.CoreCompileInputs.cache
+C:\Users\micon\source\repos\VerteilteSysLib\VerteilteSysHost\obj\Debug\VerteilteSysHost.exe
+C:\Users\micon\source\repos\VerteilteSysLib\VerteilteSysHost\obj\Debug\VerteilteSysHost.pdb
+C:\Users\micon\source\repos\VerteilteSysLib\VerteilteSysHost\bin\Debug\Model.dll
+C:\Users\micon\source\repos\VerteilteSysLib\VerteilteSysHost\bin\Debug\WcfServiceLibrary1.dll
+C:\Users\micon\source\repos\VerteilteSysLib\VerteilteSysHost\bin\Debug\Model.pdb
+C:\Users\micon\source\repos\VerteilteSysLib\VerteilteSysHost\bin\Debug\WcfServiceLibrary1.pdb
+C:\Users\micon\source\repos\VerteilteSysLib\VerteilteSysHost\bin\Debug\WcfServiceLibrary1.dll.config
+C:\Users\micon\source\repos\VerteilteSysLib\VerteilteSysHost\obj\Debug\VerteilteSysHost.csproj.CopyComplete
+C:\Users\micon\source\repos\VerteilteSysLib\VerteilteSysHost\bin\Debug\log4net.dll
+C:\Users\micon\source\repos\VerteilteSysLib\VerteilteSysHost\bin\Debug\log4net.xml
+C:\Users\micon\Desktop\Michael Sievers 690593\VerteilteSysLib\VerteilteSysHost\bin\Debug\VerteilteSysHost.exe.config
+C:\Users\micon\Desktop\Michael Sievers 690593\VerteilteSysLib\VerteilteSysHost\bin\Debug\VerteilteSysHost.exe
+C:\Users\micon\Desktop\Michael Sievers 690593\VerteilteSysLib\VerteilteSysHost\bin\Debug\VerteilteSysHost.pdb
+C:\Users\micon\Desktop\Michael Sievers 690593\VerteilteSysLib\VerteilteSysHost\bin\Debug\log4net.dll
+C:\Users\micon\Desktop\Michael Sievers 690593\VerteilteSysLib\VerteilteSysHost\bin\Debug\Model.dll
+C:\Users\micon\Desktop\Michael Sievers 690593\VerteilteSysLib\VerteilteSysHost\bin\Debug\WcfServiceLibrary1.dll
+C:\Users\micon\Desktop\Michael Sievers 690593\VerteilteSysLib\VerteilteSysHost\bin\Debug\Model.pdb
+C:\Users\micon\Desktop\Michael Sievers 690593\VerteilteSysLib\VerteilteSysHost\bin\Debug\WcfServiceLibrary1.pdb
+C:\Users\micon\Desktop\Michael Sievers 690593\VerteilteSysLib\VerteilteSysHost\bin\Debug\WcfServiceLibrary1.dll.config
+C:\Users\micon\Desktop\Michael Sievers 690593\VerteilteSysLib\VerteilteSysHost\bin\Debug\log4net.xml
+C:\Users\micon\Desktop\Michael Sievers 690593\VerteilteSysLib\VerteilteSysHost\obj\Debug\VerteilteSysHost.csproj.AssemblyReference.cache
+C:\Users\micon\Desktop\Michael Sievers 690593\VerteilteSysLib\VerteilteSysHost\obj\Debug\VerteilteSysHost.csproj.SuggestedBindingRedirects.cache
+C:\Users\micon\Desktop\Michael Sievers 690593\VerteilteSysLib\VerteilteSysHost\obj\Debug\VerteilteSysHost.csproj.CoreCompileInputs.cache
+C:\Users\micon\Desktop\Michael Sievers 690593\VerteilteSysLib\VerteilteSysHost\obj\Debug\VerteilteSysHost.csproj.CopyComplete
+C:\Users\micon\Desktop\Michael Sievers 690593\VerteilteSysLib\VerteilteSysHost\obj\Debug\VerteilteSysHost.exe
+C:\Users\micon\Desktop\Michael Sievers 690593\VerteilteSysLib\VerteilteSysHost\obj\Debug\VerteilteSysHost.pdb
