@@ -1,3 +1,8 @@
+Eine WCF Awendung in der verteiltes Rechnen mit nodes dafür verwendet wird Aufgaben die per Plugin erweitert werden können
+zu berechnen.
+Mit Beispielplugins Pierpontprimes berechnen und Primfaktorzerlegung
+Plugin Erweiterbarkeit in Runtime ohne Neustart mit .Net MEF Framework
+
 Der Aboslute Pfad in WcfServiceLibrary1 -> ServiceManager pluginDir in Zeile 30 muss geändert werden
 sodass er auf VerteilteSysLib/VerteilteSysHost/ExternalPlugins zeigt.
 
