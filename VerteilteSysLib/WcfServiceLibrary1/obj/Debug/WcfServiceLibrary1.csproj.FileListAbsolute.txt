@@ -1,0 +1,28 @@
+C:\Users\micon\source\repos\VerteilteSysLib\WcfServiceLibrary1\bin\Debug\WcfServiceLibrary1.dll.config
+C:\Users\micon\source\repos\VerteilteSysLib\WcfServiceLibrary1\bin\Debug\WcfServiceLibrary1.dll
+C:\Users\micon\source\repos\VerteilteSysLib\WcfServiceLibrary1\bin\Debug\WcfServiceLibrary1.pdb
+C:\Users\micon\source\repos\VerteilteSysLib\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.csproj.AssemblyReference.cache
+C:\Users\micon\source\repos\VerteilteSysLib\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\micon\source\repos\VerteilteSysLib\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.csproj.CopyComplete
+C:\Users\micon\source\repos\VerteilteSysLib\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.dll
+C:\Users\micon\source\repos\VerteilteSysLib\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.pdb
+C:\Users\micon\source\repos\VerteilteSysLib\WcfServiceLibrary1\bin\Debug\Model.dll
+C:\Users\micon\source\repos\VerteilteSysLib\WcfServiceLibrary1\bin\Debug\Model.pdb
+C:\Users\micon\source\repos\VerteilteSysLib\WcfServiceLibrary1\bin\Debug\ParallelExtensionsExtras.dll
+C:\Users\micon\source\repos\VerteilteSysLib\WcfServiceLibrary1\bin\Debug\ParallelExtensionsExtras.pdb
+C:\Users\micon\source\repos\VerteilteSysLib\WcfServiceLibrary1\bin\Debug\log4net.dll
+C:\Users\micon\source\repos\VerteilteSysLib\WcfServiceLibrary1\bin\Debug\log4net.xml
+C:\Users\micon\Desktop\Michael Sievers 690593\VerteilteSysLib\WcfServiceLibrary1\bin\Debug\WcfServiceLibrary1.dll.config
+C:\Users\micon\Desktop\Michael Sievers 690593\VerteilteSysLib\WcfServiceLibrary1\bin\Debug\WcfServiceLibrary1.dll
+C:\Users\micon\Desktop\Michael Sievers 690593\VerteilteSysLib\WcfServiceLibrary1\bin\Debug\WcfServiceLibrary1.pdb
+C:\Users\micon\Desktop\Michael Sievers 690593\VerteilteSysLib\WcfServiceLibrary1\bin\Debug\log4net.dll
+C:\Users\micon\Desktop\Michael Sievers 690593\VerteilteSysLib\WcfServiceLibrary1\bin\Debug\Model.dll
+C:\Users\micon\Desktop\Michael Sievers 690593\VerteilteSysLib\WcfServiceLibrary1\bin\Debug\ParallelExtensionsExtras.dll
+C:\Users\micon\Desktop\Michael Sievers 690593\VerteilteSysLib\WcfServiceLibrary1\bin\Debug\Model.pdb
+C:\Users\micon\Desktop\Michael Sievers 690593\VerteilteSysLib\WcfServiceLibrary1\bin\Debug\log4net.xml
+C:\Users\micon\Desktop\Michael Sievers 690593\VerteilteSysLib\WcfServiceLibrary1\bin\Debug\ParallelExtensionsExtras.pdb
+C:\Users\micon\Desktop\Michael Sievers 690593\VerteilteSysLib\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.csproj.AssemblyReference.cache
+C:\Users\micon\Desktop\Michael Sievers 690593\VerteilteSysLib\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\micon\Desktop\Michael Sievers 690593\VerteilteSysLib\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.csproj.CopyComplete
+C:\Users\micon\Desktop\Michael Sievers 690593\VerteilteSysLib\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.dll
+C:\Users\micon\Desktop\Michael Sievers 690593\VerteilteSysLib\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.pdb
